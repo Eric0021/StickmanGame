@@ -1,0 +1,11 @@
+{
+  "_comment": "Game settings",
+  "stickmanSize": "TINY",
+  "_stickmanSizeComment": "Your main character can be tiny, normal, large, or giant. Please only input these four options as STRING",
+  "stickmanPos": {
+    "x": 20.0
+  },
+  "_stickmanPosComment": "Stickman's starting x position. This must be a positive double.",
+  "cloudVelocity": 5.0,
+  "_cloudVelocityComment": "The velocity of clouds. This must be a positive double."
+}
